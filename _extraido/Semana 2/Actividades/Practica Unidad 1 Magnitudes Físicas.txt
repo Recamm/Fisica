@@ -1,0 +1,81 @@
+
+--- Página 1 ---
+Física (03) Cátedra Torti
+Práctica Unidad Nº 1 Magnitudes Física
+1) Con los vectores 𝑨""⃗ y 𝑩""⃗ de la figura 1, use un dibujo a escala
+para obtener la magnitud y la dirección de:
+a) La suma vectorial de "𝑨"⃗ + 𝑩""⃗ y la diferencia 𝑨""⃗ – 𝑩""⃗.
+b) Con base en sus respuestas, determine la magnitud y la
+dirección de: - "𝑨"⃗ – "𝑩"⃗ y 𝑩""⃗ – 𝑨""⃗
+2) Calcule las componentes x e y de los vectores 𝑨""⃗,"𝑩"⃗,𝑪""⃗ y 𝑫""⃗ de
+la figura 1.
+3) Para los vectores 𝑨""⃗, 𝑩""⃗ y "𝑪"⃗ de la figura 1, obtenga los productos escalares.
+a) "𝑨"⃗ · 𝑩""⃗
+b) 𝑩""⃗ · "𝑪"⃗
+c) 𝑨""⃗ · 𝑪""⃗
+4) Para los vectores 𝑨""⃗ y 𝑫""⃗ de la figura 1
+a) Obtenga la magnitud y la dirección del producto vectorial "𝑨"⃗ x 𝑫""⃗.
+b) Calcule la magnitud y la dirección de "𝑫"⃗ x "𝑨"⃗.
+5) El vector "𝑨"⃗ mide 2,80 cm y está 60,0º sobre el eje x en el primer
+cuadrante. El vector 𝑩""⃗ mide 1,90 cm y está 60,0º bajo el eje x en el
+cuarto cuadrante de figura 2. Utilice las componentes para obtener
+la magnitud y la dirección de:
+a) "𝑨"⃗ + 𝑩""⃗
+b) 𝑨""⃗ - "𝑩"⃗
+c) 𝑩""⃗ - "𝑨"⃗
+1
+--- Página 2 ---
+Física (03) Cátedra Torti
+En cada caso, dibuje la suma o resta de vectores, y demuestre que sus respuestas numéricas
+concuerdan cualitativamente con el dibujo.
+6) a) Escriba cada uno de los vectores de la figura 3 en
+términos de los vectores unitarios î y ĵ.
+b) Utilice vectores unitarios para expresar el vector 𝑪""⃗,
+donde 𝑪""⃗ = 3,00 𝑨""⃗ - 4,00 "𝑩"⃗.
+c) Determine la magnitud y la dirección de "𝑪"⃗.
+7) El vector 𝑨""⃗, tiene una componente y A= +13,0 m. 𝑨""⃗ tiene
+y
+un ángulo de 32,0º en sentido antihorario a partir del eje +y.
+a) ¿Cuál es la componente x de 𝑨""⃗?
+b) ¿Cuál es la magnitud de "𝑨"⃗?
+8) Calcule el ángulo entre estos pares de vectores:
+a) "𝑨"⃗ = -2,00î + 6,00 ĵ y "𝑩"⃗ = 2,00î + 3,00 ĵ
+b) "𝑨"⃗ = 3,00î + 5,00 ĵ y "𝑩"⃗ = 10,00î + 6,00 ĵ
+c) 𝑨""⃗ = -4,00î + 2,00 ĵ y "𝑩"⃗ = 7,00î + 14,00 ĵ
+9) Tres cuerdas horizontales tiran de una piedra grande enterrada
+en el suelo, produciendo los vectores de fuerza 𝑨""⃗, "𝑩"⃗ y 𝑪""⃗ que se
+ilustra en la figura 4.
+Obtenga la magnitud y la dirección de una cuarta fuerza
+aplicada a la piedra que haga que la suma vectorial de las
+cuatro fuerzas sea cero.
+2
+--- Página 3 ---
+Física (03) Cátedra Torti
+Respuestas:
+1) a) 9,01 m, 33,6º; 22,3 m, 250º
+b) 9,01 m, 214º; 22,3 m, 70,3º
+2) Ax = 0,00 m; Ay = -8,00 m
+Bx = 7,50 m; By = 13,0 m
+Cx = -10,9 m; Cy = -5,07 m
+Dx = -7,99 m; Dy = 6,02 m
+3) a) -104 m2
+b) -147 m2
+c) 40,6 m2
+4) a) -63,9 m2 𝑘"
+a) 63,9 m2 𝑘"
+5) a) 2,48 cm; 18,3°
+b) 4,09 cm; 83,7°
+c) 4,09 cm; 264°
+6) a) 𝑨""⃗ = (1,23 m)î + (3,38 m)ĵ; 𝑩""⃗ = (-2,08 m)î + (-1,20 m)ĵ
+b) 𝑪""⃗ = (12,0 m)î + (14,9 m)ĵ
+3
+--- Página 4 ---
+Física (03) Cátedra Torti
+c) 19,2 m; 51,2°
+7) a) -8,12 m
+b) 15,3 m
+8) a) 52,1°
+b) 28,1°
+c) 90,0°
+9) 90,2 N, 256º
+4

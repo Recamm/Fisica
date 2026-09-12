@@ -1,0 +1,80 @@
+
+--- Página 1 ---
+Física (03) Cátedra Torti
+Práctica Unidad 3 Hidrostática
+Nota: el valor de gravedad utilizado en la resolución de los ejercicios es de 9,80 m/s2.
+1) Usted realiza un trabajo de medio tiempo, y un supervisor le pide traer del almacén una varilla
+cilíndrica de acero de 85,8 cm de longitud y 2,85 cm de diámetro. ¿Necesita usted un carrito?
+(Para contestar, calcule el peso de la varilla)
+Dato: d = 7,80 x 103 kg/m3
+Acero
+2) Una esfera uniforme de plomo y una de aluminio tienen la misma masa. ¿Cuál es la relación
+entre los radios de la esfera de aluminio y el de la esfera de plomo?
+Datos: d = 2,70 x 103 kg/m3; d = 11,3 x 103 kg/m3
+Aluminio Plomo
+3) Un disco cilíndrico de madera que pesa 45,0 N y tiene un
+diámetro de 30,0 cm flota sobre un cilíndro de aceite cuya
+densidad es de 0,850 g/cm3 como muestra la figura.
+El cilíndro de aceite mide 75,0 cm de alto y tiene un
+diámetro igual al cilíndro de madera.
+a) Calcule la presión manométrica en la parte superior de
+la columna de aceite.
+b) Ahora suponga que alguin coloca un peso de 83,0 N en
+la parte superior del disco de madera, pero el aceite no
+se escurre alrededor del borde de la madera. ¿Cuál es
+el cambio de presión i: en la base del aceite y ii: a la
+mitad de la columna de aceite?
+4) Un cortocircuito deja sin electricidad a un submarino que está a 30,0 m por debajo de la
+superficie del mar. Para escapar, la tripulación debe empujar hacia fuera una escotilla
+ubicada en el fondo, la cual tiene un área de 0,750 m2 y pesa 300 N. Si la presión interior es
+de 1,00 atm, ¿qué fuerza hacia abajo se debe hacer sobre la escotilla para abrirla?
+Dato: d = 1,03 x 103 kg/m3
+Agua de Mar
+1
+--- Página 2 ---
+Física (03) Cátedra Torti
+5) Un tubo en forma de U abierto por ambos extremos contiene
+un poco de mercurio. Se vierte un poco de agua en el brazo
+izquierdo del tubo hasta que la altura de la columna de
+agua es 15,0 cm como muestra la figura.
+a) ¿Cuál es la presión manométrica en la interfase agua-
+mercurio?
+b) Calcule la distancia vertical h entre las superfices de
+mercurio en el brazo derecho del tubo y la superficie del
+agua en el frazo izquierdo.
+Datos: d = 13,6 x 103 kg/m3; d = 1,00 x 103 kg/m3
+Mercurio Agua
+6) Un cubo de 8,50 cm de lado tiene una masa de 0,650 kg. ¿Flotará en agua?
+Dato: d = 1,00 x 103 kg/m3
+Agua
+7) Una pieza de metal de forma irregular tiene una masa de 90,0 g en el aire. Si se suspende de
+una balanza y la pieza está totalmente sumergida en agua, en la escala se lee 75,0 g. ¿Cuál
+es el volumen y la densidad de la pieza de metal?
+Dato: d = 1,00 x 103 kg/m3
+Agua
+8) El émbolo (1) de la figura tiene un diámetro de 0.250
+pulgadas; el émbolo (2) tiene un diámetro de 1,50
+pulgadas.
+En ausencia de fricción, determine la fuerza
+F"⃗
+para
+sostener el peso de 230 kg.
+9) Demuestre que el barómetro de agua no sería práctico.
+2
+--- Página 3 ---
+Física (03) Cátedra Torti
+Respuestas:
+1) 41,8 N, No es necesario usar un carrito.
+2) 1,61
+3) a) 637 Pa
+b) i: 1,17 x 103 Pa; ii: 1,17 x 103 Pa
+4) 2,27 x 105 N
+5) a) 1,47 x 103 Pa
+b) 13,9 cm
+6) No, puede justifiar su respuesta!!!
+7) 15,0 cm3; 6,00 g/cm3
+8) 10,4 N
+9) La altura del tubo necesaria para realizar la construcción de dicho barómetro será de
+aproximadamente 10,0 m ya que esa altura es la que alcanzaría el agua dentro del mismo para
+igualar a la presión atmosférica.
+3

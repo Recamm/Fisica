@@ -1,0 +1,98 @@
+
+--- Página 1 ---
+ARQUIMEDES (-287 /-212) Y LA CORONA DE HIERON
+ALBERTO P. MAIZTEGUI
+FaMAF, Universidad Nacional de Córdoba- Ciudad Universitaria- 5000 Córdoba
+Hierón II (-270/-216), tirano de Siracusa, mostrar al artesano su fraude, encargó a
+Sicilia, (que en esa época era griega) dió Arquímedes que se ocupase del asunto y
+a su orfebre un peso Po de oro para que que con su inteligencia encontrase esos me
+le hiciera una corona. Cuando el orfebre dios. Un día que Arquímedes, preocupado
+la entregó, Hierón sospechó de su honesti por este asunto, entró por casualidad en
+dad: podría haberse quedado con parte del una casa de baños, advirtió que a medida
+oro, reemplazándolo en la corona por pla que se introducía en la bañera, el agua des
+ta. Pero la corona era hermosa y no quería bordaba de la misma. Esta observación le
+destruirla. Entonces encargó a Arquíme hizo descubrir la razón que buscaba, y sin
+des averiguar si la corona era de oro puro aguardar más por la alegría que este hecho
+o no sin destruirla (hoy día lo llamaríamos le producía, salió del baño aún desnudo y
+"ensayo no destructivo"). corriendo hacia su casa gritaba: ¡Eureka!
+¡Eureka!, es decir ¡lo he encontrado! ¡lo he
+Así lo cuenta Vitruvio, arquitecto del si
+encontrado!".
+glo I antes de Cristo en su "Arquitectu
+ra", obra dedicada al emperador Augusto, Esta anécdota, tan curiosa que parece in
+donde describe el estado de la arquitectu creíble, nos hace pensar en una caracterís
+ra en esa época: "Entre el gran número de tica de Arquímedes, su formidable poder de
+admirables descubrimientos realizados por abstracción, presente hasta en el momento
+Arquímedes (-287 /-212), hay que señalar el de su muerte: "Marcelo, dueño finalmen
+que voy a citar y en el que puso de mani te de Siracusa, no ignoraba que habían si
+fiesto una sutileza casi increíble. Cuando do las máquinas de ese geómetra las que
+Hierón reinaba en Siracusa, este príncipe, habían demorado tanto tiempo la victoria.
+por los éxitos logrados en sus empresas, se Sin embargo, lleno de admiración por ese
+propuso ofrecer en un cierto templo una co genio extraordinario, dió orden de conser
+rona de oro a los dioses inmortales. Con varle la vida, siendo para él de tanta gloria
+vino la confección de la obra con un arte la conservación de Arquímedes como la to
+sano mediante una buena suma de dinero ma de Siracusa. Pero mientras Arquímedes
+y la entrega de la cantidad de oro en peso. con la vista y la atención fijos en el suelo
+El artesano entregó loa corona en la fecha trazaba figuras, un soldado que había pe
+convenida al rey, quien la encontró perfec netrado en la casa para saquearla, levantó
+tamente ejecutada, pareciendo que contu sobre él su espada preguntándole quién era.
+viera todo el oro que se le había entregado. Arquímedes, totalmente dedicado al pro
+Pero habiendo obtenido indicios de que el blema cuya solución buscaba, né atinó a
+artesano había retenido una parte del oro, decirle su nombre, sino mostrándole con las
+sustituyéndolo por un peso equivalente de manos las líneas dibujadas sobre la arena,
+plata, el rey, indignado ante ese engaño y le dijo: "Por favor, no borres eso". Y el sol
+no teniendo a manos los medios para de- dado, viendo en esta respuesta un insulto
+--- Página 2 ---
+REVISTA DE ENSEÑANZA DE LA FISICA 77
+al poder de los vencedores, le cortó la cabe Como P = PE. V, reemplazando en la igual
+za¡ y la sangre de Arquímedes se confundió dad anterior:
+con la labor de su ciencia".
+La idea de Arquímedes puede ser descripta
+así:
+1) Pesó la corona: Pe; formó un trozo de Por otra parte, como Vc = Vo + V¡, resulta
+oro de peso Po, y otro de plata de peso Pp,
+V¡,= Vc- Yo:
+iguales al de la corona:
+p Ee = P Eo ·Va+ P Ep · (Vc- Va)
+Va+ (Vc- Va)
+2) Sumergió en agua, uno a uno, la corona,
+Y se llega a:
+y los trozos de metales puros. Así midió
+sus volúmenes, cada uno igual al volumen
+de agua respectivamente desplazada:
+Va, Vc y V¡,
+Si el orfebre hubiese sido honesto, entonces
+3) Para saber si había engaño o no, basta el volumen de oro incluído en la corona Vo
+ba comprobar si Va = Vc, en cuyo caso no debía coincidir con el de la corona Ve¡ y
+lo había¡ o bien si Va < Vc en cuyo caso para eso el coeficiente de Vc debía ser igual
+sí había engaño pues la sustancia de que a 1:
+estaba hecha la corona sería diferente del
+oro, al tener distintos pesos específicos:
+Po PE =Pe
+PE o =Yc,j e Vc para lo cual es necesario que el peso es
+pecífico de la corona sea igual al del trozo
+Si Va < Vc entonces, al ser Po =Pe resulta: de oro puro, (P Ee = P Eo)·
+Si no lo fuese, aquella expresión permite
+calcular el volumen de oro empleado en la
+lo que revelaría el fraude. corona; lo que es equivalente, la cantidad
+de oro reemplazada por plata.
+4) Pero Arquímedes fue más allá: si la co
+rona estaba hecha de oro y de plata, y no Pero yo no sé si el orfebre trató de engañar
+de oro puro, entonces su peso Pe era la su . a Hierón o no: la solución de· Arquímedes,
+ma de un peso Po de oro y de otro Pp de tan brillante, relega al olvido qué hizo o
+plata: dejó de hacer el orfebre ... El lector curio
+so puede hallar la repuesta en el libro del
+ingeniero José Babini: "Arquímedes" de la
+Colección Austral de Espasa-Calpe, 1948,
+Su volumen Yc sería la suma del volumen
+de donde extrajimos las citas.
+V de oró y del volumen V¡, de plata:
+0
+Entonces el peso específico de la corona
+sería:
+i¡
+i,\
+11
+lj
+.,,
+1

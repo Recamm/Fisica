@@ -1,0 +1,89 @@
+
+--- Página 1 ---
+Universidad de Buenos Aires – Programa UBA XXI
+FÍSICA
+Práctica de la Unidad N° 2
+Nota: el valor de gravedad utilizado en la resolución de los ejercicios
+es de 9,80 m/s2.
+1) Un niño de 21,0 kg de peso se sienta en un subibaja a 2,00 metros del centro e giro.
+¿Qué tan lejos del centro de giro deberá sentarse, del otro lado, su padre de 105 kg
+para que el balancín esté en equilibrio?
+2) Un pintor de 75,0 kg pinta una pared
+estando de pie sobre una tabla larga
+que descansa apoyada en dos puntos
+sobre un andamio, tal como lo muestra
+la figura. Si la tabla es homogénea y
+tiene una masa de 15,0 kilogramos,
+¿cuán cerca del extremo izquierdo de
+la tabla podrá pararse sin que la tabla
+se incline?
+3) Suponga que ahora el pintor se encuentra parado a 1,50 metros del extremo izquierdo
+de la tabla, pero que ahora la tabla no descansa sobre un andamio sino que está colgada
+y sostenidas de sus extremos por cuerdas verticales. ¿Cuáles serán las tensiones en las
+cuerdas?
+4) Despreciando las masas de las varillas
+horizontales y de las cuerdas y sabiendo que
+la abeja de la izquierda tiene una masa de
+0,100 kg. ¿Cuál debe ser la masa de cada una
+de las otras figuras para que el móvil
+permanezca “equilibrado”?
+5) Se suspende una masa de dos cuerdas tal como se
+muestra en la figura. ¿Cuáles son las tensiones en las
+cuerdas?
+--- Página 2 ---
+Universidad de Buenos Aires – Programa UBA XXI
+FÍSICA
+6) Calcular que ángulo máximo puede formar con la
+vertical cada una de las cuatro cuerdas de la figura,
+para que la tensión que soporta cada una no exceda
+los 500 N. (Use consideraciones de simetria)
+1,00 x 103 N
+7) Una lámpara cuyo peso es P, está sostenida por dos cuerdas como muestra la figura. Si
+la tensión en la cuerda vale P, entonces los ángulos  y  son respectivamente:
+a) 45º y 45º
+b) 37º y 53º
+c) 30º y 60º
+d) 53º y 37º
+e) 30º y 30º
+f) 60º y 30º
+8) Una revista especializada infoma que cierto auto
+deportivo tiene 53,0 % de su peso en las ruedas
+delanteras y el 47,0 % sobre las traseras, con una
+distancia entre ejes de d= 2,46 m.
+Esto implica que la fuerza normal total sobre las
+ruedas delanteras es de 0,530 P y sobre las traseras,
+de 0,470 P, donde P es el peso total. Al espacio
+entre el eje delantero y trasero se llama distancia
+entre ejes.
+¿ qué tan adelante del eje trasero esta el centro de
+gravedad del automóvil?
+9) Una grúa torre como muestra la figura, debe siempre estar
+cuidadosamente balanceada de manera que no haya un
+torque (o momento) neto que tienda a voltearla. Una grúa
+está a punto de levantar una carga de 2,80 x 103 kg. Las 3,40 m 7,70 m
+dimensiones de la grúa se muestran en la figura. Ignore la
+masa de la viga horizontal.
+a) ¿Dónde debe colocarsse el contrapeso de 9,50 x 103 kg
+cuando la carga se levanta desde el suelo?
+b) Determine la carga máxima que puede ser levantada
+cuando el contrapeso se coloca en el punto extremo de
+la grúa.
+--- Página 3 ---
+Universidad de Buenos Aires – Programa UBA XXI
+FÍSICA
+Respuestas:
+1) 0,400 metros
+2) 1,30 metros
+3) Tizq: = 588 N
+Tder: = 294 N
+4) Abeja de la izquierda: 0,100 kg (dato)
+Abeja de la derecha: 0,200 kg
+Pájaro de la derecha: 0,500 kg
+Pájaro de la izquierda: 0,400 kg
+5) Tensión cuerda izq.: 49,2 N
+Tensión cuerda der: 40,2 N
+6) 60,0º
+7) e
+8) 1,30 m
+9) a) 2,27 m
+b) 4,20 x 103 kg.

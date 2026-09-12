@@ -1,0 +1,108 @@
+
+--- Página 1 ---
+https://arrimo.com.ar
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 5
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) Un paracaidista salta desde el borde de un acantilado de 300 metros de altura y
+durante 6,00 segundos desciende en caída libre.
+Transcurridos los seis segundos, abre el paracaídas y desciende hasta el suelo con una
+rapidez constante de 7,50 km/h.
+a) altura
+124 m
+a) ¿A qué altura, respecto del suelo, el paracaidista
+abre su paracaídas? (1,5 puntos)
+b) ¿Cuánto tiempo transcurre entre el salto y la llegada b) tiempo
+al suelo del paracaidista? (1,5 puntos)
+65,3 s
+2) En un vaso que contiene aceite (densidad del aceite = 0,950 g/cm3) se coloca un cubo
+macizo de plástico de 4,00 cm de arista, el cual flota en el aceite emergiendo del mismo una
+cuarta parte de su volumen, según se representa en el esquema.
+a) ¿Cuál es el valor de la presión hidrostática en un punto •q ubicado en la base del cubo?
+●
+(1 punto)
+q
+b) Calcule la masa del cubo de plástico. (1 punto)
+a) Presión b) Masa
+279 Pa 45,6 g
+c) Realice en el recuadro de la derecha un diagrama del
+cuerpo libre para el cubo flotando. (1 punto)
+-Se tendrá en cuenta la proporción en que las fuerzas
+intervinientes son representadas-.
+https://arrimo.com.ar
+--- Página 2 ---
+https://arrimo.com.ar
+FÍSICA (03) PRIMER PARCIAL
+TEMA 5
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+3) ¡Qué enredo! Padre e hijo han enredado sus líneas de pesca y
+aun no saben a quién pertenece el anzuelo que mordió el pez.
+En la situación estática del dibujo, las respectivas líneas de pesca
+de padre e hijo forman ángulos de 30,0 y 45,0 grados respecto de la
+vertical.
+La línea de pesca del padre Masa
+está sometida a una tensión
+1,74 kg
+de 12,5 Newton.
+Calcule la masa del pez
+capturado (2,0 puntos)
+4) Dados los vectores A = (4,00 ; 9,00 ) y B = (3,00 ; – 1,00)
+a) Calcule el módulo del vector (A + B). (1,0 punto)
+b) Represente al vector (A + B) en el sistema de ejes.
+(1,0 punto)
+a) Módulo
+10,6
+1) El paracaidista salta desde una altura de 300 m y desciende durante 6,00 s en caída libre, lo que implica un
+descenso de:
+𝑔
+𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑖𝑎 = 𝑡2 = 176,4 𝑚
+𝑐𝑎í𝑑𝑎 𝑙𝑖𝑏𝑟𝑒 2
+Es decir que abre el paracaídas a una altura respecto del suelo de 300 𝑚−176,4 𝑚 = 𝟏𝟐𝟑,𝟔 𝒎
+Para saber el tiempo total del descenso, nos falta averiguar el tiempo que demora en recorrer esos 123,6 m viajando
+con velocidad constante de 7,50 𝑘𝑚/ℎ = 2,08333…𝑚/𝑠.
+123,6 𝑚
+𝑻𝒊𝒆𝒎𝒑𝒐 = 6,00 𝑠+ = 𝟔𝟓,𝟑𝟐𝟖 𝒔
+𝒕𝒐𝒕𝒂𝒍 𝑚
+2,08333…
+𝑠
+2) El punto q se encuentra a una profundidad igual a tres cuartas partes de la longitud de la arista del cubo, es decir
+3,00 cm. Su presión hidrostática será:
+𝑘𝑔 𝑚
+𝒑 = 950 .0,80 .0,0300 𝑚 = 𝟐𝟕𝟗,𝟑 𝑷𝒂
+𝒒 𝑚3 𝑠2
+El buceador se encuentra estático, las fuerzas que actúan sobre él deben estar equilibradas:
+𝐸 −𝑃 = 0 ⇒ 𝐸 = 𝑃 ⇒ 𝑉 .𝑔.𝛿 = 𝑚 .𝑔
+𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑎𝑐𝑒𝑖𝑡𝑒 𝑐𝑢𝑏𝑜
+⇒ 𝒎 = 𝑉 .𝛿 = 𝟎,𝟎𝟒𝟓𝟔 𝒌𝒈
+𝒄𝒖𝒃𝒐 𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑎𝑐𝑒𝑖𝑡𝑒
+3) Como el sistema se encuentra en equilibrio estático, la sumatoria de fuerzas debe ser nula. Consideremos la
+descomposición en las direcciones horizontal y vertical.
+En la dirección horizontal tenemos:
+https://arrimo.com.ar
+--- Página 3 ---
+https://arrimo.com.ar
+sen(30°)
+𝑇 .sen(45°)−𝑇 .sen(30°) = 0 ⇒ 𝑇 = 𝑇 = 8,838834… 𝑁
+ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒 ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒 sen(45°)
+En la dirección vertical:
+𝑇 .cos(45°)+𝑇 .cos(30°)−𝑚 .𝑔 = 0
+ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒 𝑝𝑒𝑧
+𝑇 .cos(45°)+𝑇 .cos(30°)
+ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒
+⇒ 𝒎 = = 𝟏,𝟕𝟒𝟐𝟑𝟕𝟗𝟑…𝒌𝒈
+𝒑𝒆𝒛 𝑔
+4) El módulo de la suma vectorial de 𝐴⃗ y 𝐵⃗⃗ es:
+|𝑨⃗⃗⃗+𝑩⃗⃗⃗| = √(𝐴 +𝐵 )2+(𝐴 +𝐵 ) 2 = 𝟏𝟎,𝟔𝟑𝟎𝟏𝟒𝟓𝟖𝟏…
+𝑥 𝑥 𝑦 𝑦
+https://arrimo.com.ar

@@ -1,0 +1,49 @@
+
+--- Página 1 ---
+Física (03) Cátedra Torti
+Primera práctica integradora
+Nota: el valor de gravedad utilizado en la resolución de los ejercicios es de 9,80 m/s2.
+SUGERIMOS QUE LAS RESPUESTAS A ESTAS PREGUNTAS, SEAN POR USTEDES
+PRESENTADAS EN EL FORO DE REPASO DE MODO TAL DE PODER SER PUESTAS
+EN COMUN Y DISCUTIDAS POR TODOS.
+1 .- Se tienen dos pelotas de golf idénticas, una es colocada en un balde que contiene un líquido
+A se observa que se sumerge totalmente y queda flotando en el seno del líquido; la otra pelota
+se coloca en otro balde que contiene un líquido B y en este caso queda flotando con una porción
+de ella por encima de la superficie del líquido.
+a) Compare los empujes que reciben las pelotas en ambos líquidos. ¿Hay alguno mayor o
+menor que el otro?
+b) Realice un esquema de cuerpo libre para ambas situaciones.
+2.- Para levantar un coche en un taller se emplea una plataforma que se
+eleva por la acción de un cilindro hidráulico, tal como lo muestra la figura.
+El diámetro del cilindro es 30 centímetros y su propio peso sumado al de la
+plataforma es de 2000 Newton. Si la bomba que presuriza y bombea el
+aceite para elevar al cilindro puede alcanzar una presión máxima de 2,8x105
+pascales, ¿cuánto puede pesar como máximo un vehículo para poder ser
+levantado por este dispositivo?
+1
+--- Página 2 ---
+Física (03) Cátedra Torti
+3- La escalera de un camión de bomberos
+tiene 20 metros de longitud, pesa 2800 N,
+tiene su centro de gravedad en su centro y
+puede girar sobre un perno sobre el extremo
+(A) como muestra la Figura.
+La escalera se eleva mediante la fuerza aplicada por un pistón hidráulico en el punto C, que
+está a 8,0 metros del extremo (A), y la fuerza (F) ejercida por el pistón tiene un ángulo de 40 °
+con la escalera.
+a) ¿Qué magnitud mínima de fuerza debe realizar el pistón hidráulico para separar la escalera
+del apoyo B?
+4.- Para discutir:
+a) Sobre un objeto cúbico actúa una fuerza de izquierda a derecha cuya magnitud es 2 Newton,
+y al mismo tiempo otra fuerza de igual magnitud actúa sobre dicho cuerpo pero de derecha a
+izquierda.
+¿puede asegurarse entonces que el cubo permanecerá quieto?
+b) Dada la suma de dos vectores (A y B) con igual dirección y sentido, el resultado será otro
+vector con: MAYOR MÓDULO, DISTINTA DIRECCIÓN E IGUAL SENTIDO QUE A Y B ?, MAYOR
+MÓDULO, IGUAL DIRECCIÓN MÓDULO E IGUAL SENTIDO QUE A Y B? o bien MAYOR MÓDULO,
+IGUAL DIRECCIÓN, PERO DISTINTO SENTIDO QUE A Y B?
+c) Dados dos recipientes iguales que contienen iguales volúmenes de dos líquidos distintos A
+y B (siendo la densidad de A es mayor que la densidad de B), si se consideran dos puntos
+ubicados en el seno de los líquidos a igual profundidad, la presión que tendrá dicho punto en
+el líquido A ¿será MAYOR, MENOR o IGUAL que en el líquido B
+2

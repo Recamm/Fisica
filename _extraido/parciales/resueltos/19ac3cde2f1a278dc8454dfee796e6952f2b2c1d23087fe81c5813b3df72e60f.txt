@@ -1,0 +1,123 @@
+
+--- Página 1 ---
+https://arrimo.com.ar
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 1
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) El esquema muestra a una persona de 75,0 kg de masa que se encuentra inmóvil en el
+extremo de una tabla que se encuentra apoyada y bascula en el punto a del extremo a
+superior de una pared.
+El extremo izquierdo de la tabla se encuentra unido a una cuerda cuya orientación forma
+un ángulo de 20,0 grados respecto de la dirección vertical.
+La tabla es homogénea, tiene una masa de 20,0 kg, 3,00 metros de longitud y el punto a
+se encuentra a 1,00 metros del extremo izquierdo de la misma.
+Tensión
+Calcular la tensión a la que se encuentra sometida la cuerda.
+1,67.103 N
+(2 puntos)
+2) Un mito muy difundido cuenta que Galileo Galilei, estudiaba la caída de los cuerpos
+soltándolos desde la parte superior de la torre de Pisa y analizando el tiempo que tardaban ●a
+en llegar al suelo.
+Si una pesada bala de cañón, soltada desde el punto ● a tarda 3,37 segundos en alcanzar el
+suelo,
+a) Calcule la altura del punto ● a respecto del suelo. (1 punto)
+b) Calcule la rapidez de la bala cuando llega al suelo. (1 punto)
+a) Altura b) Rapidez
+55,6 m 33,0 m/s
+3) Una esfera maciza de aluminio de 3,00 centímetros de diámetro es colocada dentro de un
+recipiente con alcohol, quedando apoyada en el fondo tal como muestra la figura. Sabiendo que
+las densidades del aluminio y del alcohol son 2,70 x 103 y 7,89 x 102 kg/m3 respectivamente,
+responda:
+a) ¿Cuál es la masa - en gramos- de la esfera? (1 punto)
+b) ¿Cuál es el valor de la fuerza de empuje que experimenta la esfera? (1 punto)
+c) ¿Cuál es el valor de la fuerza con la que la esfera se apoya en el fondo del recipiente? (1 punto)
+d) En el recuadro realice el “diagrama de cuerpo libre” para la esfera, indicando de manera proporcionada las
+fuerzas que actúan sobre ella. (1 punto)
+a) Masa
+38,2 g
+b) Fuerza
+0,109 N
+c) Fuerza
+0,265 N
+https://arrimo.com.ar
+--- Página 2 ---
+https://arrimo.com.ar
+FÍSICA (03) PRIMER PARCIAL
+TEMA 1
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+4) Dados los siguientes vectores A y B que representan fuerzas:
+35,0º
+a) Calcular el módulo del vector A+B y el ángulo -respecto del eje x- del
+mismo (no olvide consignar las unidades en sus resultados) (1 punto)
+a) módulo Ángulo
+70,3 N 43,9°
+30,0º
+b) Informar el resultado del producto A x B (no olvide consignar las unidades y dirección en su resultado) (1 punto)
+b) AxB
+541 N2 ̂
+𝑘
+1) La tabla se encuentra en equilibrio estático, es decir que las sumatorias de fuerzas y momentos sobre ésta deben
+anularse.
+Si planteamos la sumatoria de momentos tomando como centro de momentos el punto a, tenemos los momentos del
+peso de la tabla y de la fuerza que la persona ejerce sobre la tabla (que es igual en valor al peso de la persona) que
+generarían rotaciones en sentido antihorario y tenemos el momento de la tensión de la cuerda en sentido horario.
+𝑚 𝑚
+75,0 𝑘𝑔.9,80 .2 𝑚+20,0 𝑘𝑔.9,80 .0,5 𝑚−𝑇.cos(20°).1 𝑚 = 0
+𝑠2 𝑠2
+⇒ 𝑻 = 𝟏𝟔𝟔𝟖,𝟔𝟑𝟏…𝑵
+2) Se deja caer la bala de cañón, lo que implica que parte del reposo. Despreciando la fricción con el aire:
+1 1 𝑚
+𝒉 = 𝑔.𝑡2 = .9,80 (3,37 𝑠)2 = 𝟓𝟓,𝟔𝟒𝟖𝟖𝟏…𝒎
+2 2 𝑠2
+La rapidez al llegar al suelo será:
+𝑚 𝒎
+𝒓𝒂𝒑𝒊𝒅𝒆𝒛 = |𝑣| = |𝑔.𝑡| = 9,80 .3,37 𝑠 = 𝟑𝟑,𝟎𝟐𝟔
+𝑠2 𝒔
+3) Conocemos el diámetro de la esfera, con lo que podemos determinar su volumen, y su densidad. Con esta
+información podemos calcular la masa de la esfera:
+4 𝑘𝑔
+𝒎 = 𝑉 .𝛿 = 𝜋.(0,015 𝑚)3.2,7.103 = 𝟑𝟖,𝟏𝟕𝟎𝟑𝟓…𝒈
+𝒆𝒔𝒇𝒆𝒓𝒂 𝑒𝑠𝑓𝑒𝑟𝑎 𝑒𝑠𝑓𝑒𝑟𝑎 3 𝑚3
+El empuje es igual al peso del volumen desalojado y el volumen desalojado, como la esfera está totalmente
+sumergida, es equivalente al volumen de la esfera.
+4 𝑘𝑔 𝑚
+𝑬 = 𝑉 .𝛿 .𝑔 = 𝜋.(0,015 𝑚)3.7,89.102 .9,80 = 𝟎,𝟏𝟎𝟗𝟑𝟏𝟏…𝑵
+𝑒𝑠𝑓𝑒𝑟𝑎 𝑙í𝑞𝑢𝑖𝑑𝑜 3 𝑚3 𝑠2
+La fuerza sobre la esfera debida a la interacción entre la esfera y el fondo del recipiente es la normal. Como la esfera
+se encuentra en equilibrio estático, la sumatoria de fuerzas sobre ella debe ser nula.
+𝐸 +𝑁 −𝑃 = 0 ⇒ 𝑵 = 𝑃−𝐸 = 𝑚 .𝑔−𝐸 = 𝟎,𝟐𝟔𝟒𝟕𝟓𝟖…𝑵
+𝑒𝑠𝑓𝑒𝑟𝑎
+4) Calculamos primero las coordenadas de los vectores 𝐴⃗ y 𝐵⃗⃗.
+𝐴 = 32,0 𝑁.cos(30,0°); 𝐴 = 32,0 𝑁.sen(30,0°)
+𝑥 𝑦
+𝐵 = 40,0 𝑁.sen(35,0°); 𝐵 = 40,0 𝑁.cos(35,0°)
+𝑥 𝑦
+https://arrimo.com.ar
+--- Página 3 ---
+https://arrimo.com.ar
+El módulo de la suma vectorial de 𝐴⃗ y 𝐵⃗⃗ es:
+|𝑨⃗⃗⃗+𝑩⃗⃗⃗| = √(𝐴 +𝐵 )2 +(𝐴 +𝐵 ) 2 = 𝟕𝟎,𝟑𝟏𝟒𝟔𝟒…𝑵
+𝑥 𝑥 𝑦 𝑦
+Para hallar el ángulo que 𝐴⃗+𝐵⃗⃗ forma con el semieje positivo de las x, teniendo en cuenta que 𝐴⃗+𝐵⃗⃗ es un vector
+que se encuentra en el primer cuadrante, calculamos:
+𝐴 +𝐵
+á𝑛𝑔𝑢𝑙𝑜 = 𝑎𝑟𝑐𝑡𝑔( 𝑦 𝑦) = 43,91107…°
+𝐴 +𝐵
+𝑥 𝑥
+El producto vectorial 𝐴⃗×𝐵⃗⃗, aplicando la regla de la mano derecha, será un vector con dirección y sentido dados por
+el versor 𝑘 ̂ . Su módulo lo podemos calcular:
+|𝐴⃗×𝐵⃗⃗| = |𝐴⃗||𝐵⃗⃗||𝑠𝑒𝑛(𝜃)| = 32,0 𝑁.40,0 𝑁.𝑠𝑒𝑛(25°) = 540,9514…𝑁2
+Donde 𝜃 es el ángulo entre ambos vectores. Resulta entonces,
+𝑨⃗⃗⃗×𝑩⃗⃗⃗ = 𝟓𝟒𝟎,𝟗𝟓𝟏𝟒…𝑵𝟐 𝒌 ̂
+https://arrimo.com.ar

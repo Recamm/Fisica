@@ -1,0 +1,99 @@
+
+--- Página 1 ---
+Física (03) Cátedra Torti
+Práctica Unidad 4 Cinemática en una
+dimensión
+Nota: el valor de gravedad utilizado en la resolución de los ejercicios es de 9,80 m/s2.
+1) Una pelota se mueve en línea recta (eje x). En la
+gráfica muestra la velocidad de la pelota en función
+del tiempo.
+a) ¿Cuáles son la rapidez media y la velocidad media
+de la pelota durante los primeros 3,00 s?
+b) Suponga que la pelota se mueve de tal manera que
+el segmento de la gráfica después de 2.00 s es de -
+3,00 m/s en lugar de +3,00 m/s. En este caso calcule
+la rapidez y la velocidad media de la pelota.
+2) Un automóvil de prueba viaja en línea 45,0
+recta a lo largo del eje x. La gráfica indica la 40,0
+35,0
+posición x del automóvil en función del
+30,0
+tiempo. Obtenga la velocidad instantánea 25,0
+20,0
+en cada uno de los puntos A a F.
+15,0
+10,0
+5,0
+0,0
+0,00 1,00 2,00 3,00 4,00 5,00 6,00 7,00 8,00 9,00 10,00
+-5,0
+-10,0
+-15,0
+-20,0
+-25,0
+3) Un antílope que viene corriendo con aceleración constante tarda 7,00 s en pasar por dos
+puntos que se encuentran separados entre sí 70,0 m. Su rapidez al pasar por el segundo punto
+es 15,0 m/s.
+a) ¿Qué rapidez tenía al pasar por el primer punto?
+b) ¿Qué aceleración lleva?
+1
+)m(
+nóicisoP
+B
+C
+A
+D
+E
+F
+Tiempo (s)
+--- Página 2 ---
+Física (03) Cátedra Torti
+4) Un malabarista arroja un cuchillo verticalmente hacia arriba con una velocidad inicial de 8,20
+m/s. ¿Cuánto tiempo transcurre hasta que el cuchillo regresa a la mano del malabarista?
+5) Una pelota de tenis en Marte, donde la aceleración debida a la gravedad es de 3,71 m/s2 y la
+resistencia del aire es despreciable, es golpeada directamente hacia arriba y regresa al mismo
+nivel 8,50 s más tarde.
+a) ¿A qué altura del punto original llega la pelota?
+b) ¿Qué tan rápido se mueve exactamente después de ser golpeada?
+6) Las cucarachas grandes pueden correr a 1,50 m/s en tramos cortos. Suponga que enciende
+la luz en la cocina de su casa y ve una cucaracha alejándose en línea recta a 1,50 m/s. Si usted
+estaba 0,90 m detrás del insecto y se acerca hacia este con una rapidez inicial de 0,80 m/s,
+¿qué aceleración constante mínima necesitará para alcanzarlo cuando este haya recorrido
+1,20 m, justo antes de escapar bajo un mueble?
+7) El conductor de un automóvil desea rebasar un camión que viaja a una rapidez constante de
+20,0 m/s. Inicialmente, el automóvil también viaja a 20,0 m/s y su paragolpe delantero está 24,0
+m atrás del paragolpes trasero del camión. El automóvil adquiere una aceleración constante de
+0,600 m/s2 y regresa al carril del camión cuando su paragolpe trasero está a 26,0 m adelante
+del frente del camión. El automóvil tiene una longitud de 4,5 m, y el camión tiene una longitud
+de 21,0 m.
+a) ¿Cuánto tiempo necesita el automóvil para rebasar al camión?
+b) ¿Qué distancia recorre el automóvil ese ese tiempo? ¿Qué rapidez final tiene el automóvil?
+8) Se lanza un cohete a escala directamente hacia arriba con una velocidad inicial de 50,0 m/s,
+y acelera a 2,00 m/s2 de manera constante hacia arriba hasta que los motores se apagan a una
+altitud de 150 m.
+a) ¿Cuál es la altura máxima que alcanza el cohete?
+b) ¿Cuánto tarda el cohete después de despegue vertical en alcanzar su altura máxima?
+2
+--- Página 3 ---
+Física (03) Cátedra Torti
+c) ¿Cuánto permanece el cohete en el aire?
+9) En la Tierra, una roca de 15,0 kg se suelta desde el reposo y llega al suelo en 1,75 s. Cuando
+se suelta de la misma altura en Encélado, una luna de Saturno, llega al suelo en 18,6 s. ¿Cuál
+es la aceleración debida a la gravedad en Encélado?
+Respuestas:
+1) a) 2,33 m/s y 2,33 m/s
+b) 2,33 m/s y 0,33 m/s
+2) A y B 6,70 m/s; C y F 0,00 m/s; D, E –40,0 m/s
+3) a) 5,00 m/s
+b) 1,43 m/s2
+4) 1,67 s
+5) a) 33,5 m
+b) 15,8 m/s
+6) 4,56 m/s2
+7) a) 15,9 s
+b) 393 m; 29,5 m/s
+8) a) 308 m
+b) 8,52 s
+c) 16,5 s
+9) 0,0868 m/s2
+3

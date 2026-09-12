@@ -1,0 +1,140 @@
+
+--- Página 1 ---
+https://arrimo.com.ar
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 7
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) En una clásica fábula, una tortuga y una liebre disputan una carrera. Confiada en su velocidad y en la lentitud
+de su oponente, la liebre se duerme una siesta durante la competencia, pero al despertarse nota que la tortuga está
+a punto de llegar a la meta.
+Una tortuga terrestre puede “correr” con una rapidez de 0,250 m/s,
+mientras que una liebre lo hace mucho más rápido.
+Si cuando la liebre se despierta nota
+Rapidez (km/h)
+que, doscientos metros más adelante,
+la tortuga se encuentra a 4,50 metros 40,9 km/h
+de cruzar la meta, ¿con qué rapidez
+promedio (en km/h) deberá correr
+para alcanzar a la tortuga en la meta?
+(2,0 puntos)
+2) Una persona tira de una cuerda inextensible y mantiene inmóviles a dos
+carros A y B cuyas masas son 25,0 y 12,5 kilogramos respectivamente.
+El carro A puede deslizar sin rozamiento sobre el plano inclinado, que
+forma un ángulo de 45,0º respecto de la horizontal. Las poleas no
+presentan rozamiento alguno.
+a) Calcular la tensión a la cual se ve sometida la cuerda que vincula a
+ambos carros entre sí. (1,0 punto)
+b) Calcular la fuerza con la cual la persona tira de la cuerda. (1,0 punto)
+c) En el recuadro realice el “diagrama de cuerpo libre” para el cuerpo A,
+indicando de manera proporcionada las fuerzas que actúan sobre l.
+(1 punto)
+c)
+a) tensión
+123 N
+b) fuerza
+296 N
+3) Dados los vectores A ( 7,00 ; 3,00 ) y B ( 0,00 ; -5,00 ), cuyos orígenes se encuentran en el centro de
+coordenadas,
+a) Calcular el módulo del vector resultante de la operación (A + B). (1 punto)
+b) Calcular el ángulo (en grados) formado entre el vector resultante y el eje positivo de las X. (1 punto)
+c) Informar el resultado de la operación (A x B) indicando dirección y sentido. (1,0 punto)
+a) módulo b) ángulo c) (AxB)
+7,28 15,9° -35,0 ̂
+𝑘
+https://arrimo.com.ar
+--- Página 2 ---
+https://arrimo.com.ar
+FÍSICA (03) PRIMER PARCIAL
+TEMA 7
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+4) Para adornar un estanque de un acuario una estatua
+3,00 m
+1,00 m
+de granito es sostenida bajo el agua como muestra la
+figura, mientras se acondiciona el suelo debajo de
+ella, en donde luego será apoyada.
+La estatua tiene una masa de 160 kilogramos y se
+encuentra sumergida en agua de mar cuya densidad es
+1,025 g/cm3, mientras que la densidad del granito es
+2,80 g/cm3.
+Calcule la masa del contrapeso que mantiene en
+equilibrio al sistema. (Considere despreciables a las
+masas de las cuerdas y de la palanca) (2 puntos)
+Masa
+304 kg
+1) La tortuga se halla a 4,50 m de cruzar la meta y, en el mismo instante, la liebre se halla a 204,5 m. La liebre
+deberá recorrer 204,5 m en el mismo lapso en el cual la tortuga recorre los 4,50 m que la separan de la línea de
+llegada. El tiempo del que dispone la liebre es entonces:
+4,50 𝑚
+𝑡𝑖𝑒𝑚𝑝𝑜 = = 18,0 𝑠
+𝑚
+0,250
+𝑠
+La rapidez promedio de la liebre será entonces:
+204,5 𝑚 𝑚 𝒌𝒎
+𝒓𝒂𝒑𝒊𝒅𝒆𝒛 = = 11,36111… = 𝟒𝟎,𝟗
+18,0 𝑠 𝑠 𝒉
+2) Como todos los objetos se encuentran en equilibrio estático, la sumatoria de fuerzas sobre cada uno de ellos debe
+ser cero. Si consideramos al objeto B:
+𝑇 −𝑃 = 0 ⇒ 𝑇 = 𝑃 = 𝟏𝟐𝟐,𝟓 𝑵
+2 𝐵 2 𝐵
+donde 𝑇 es la tensión de la cuerda que une los carros A y B.
+2
+La fuerza que ejerce la persona es equivalente a la tensión (𝑇 ) de la cuerda que une a la persona con el carro A. Si planteamos
+1
+ahora la sumatoria de fuerzas sobre el carro A en la dirección paralela a la superficie inclinada sobre la que se encuentra:
+𝑇 −𝑇 −𝑚 .𝑔.sen(45°)= 0 ⇒ 𝑇 = 𝑇 +𝑚 .𝑔.sen(45°)= 𝟐𝟗𝟓,𝟕𝟒𝟏𝟏𝟔… 𝑵
+1 2 𝑎 1 2 𝑎
+3) El módulo de la suma vectorial de 𝐴⃗ y 𝐵⃗⃗ es:
+|𝑨⃗⃗⃗+𝑩⃗⃗⃗| = √(𝐴 +𝐵 )2 +(𝐴 +𝐵 ) 2 = 𝟕,𝟐𝟖𝟎𝟏𝟎𝟗…
+𝑥 𝑥 𝑦 𝑦
+El ángulo entre 𝐴⃗+𝐵⃗⃗ y el semieje positivo de las x lo podemos hallar a partir de relaciones trigonométricas entre dicho vector
+resultante y sus componentes:
+𝐴 +𝐵
+á𝒏𝒈𝒖𝒍𝒐= arccos( 𝑥 𝑥) =𝟏𝟓,𝟗𝟒𝟓𝟑𝟗𝟔…°
+|⃗𝐴⃗⃗+𝐵⃗⃗⃗|
+El producto vectorial 𝐴⃗×𝐵⃗⃗ da como resultado un vector con dirección perpendicular al plano xy, es decir en la dirección
+dada por el versor 𝑘 ̂ .
+𝑨⃗⃗⃗×𝑩⃗⃗⃗ = (𝐴 .𝐵 −𝐴 .𝐵 ) 𝑘 ̂ = −𝟑𝟓,𝟎 𝒌 ̂
+𝑥 𝑦 𝑦 𝑥
+https://arrimo.com.ar
+--- Página 3 ---
+4) La estatua se encuentra en reposo y permanece en reposo, es decir que está en equilibrio estático, con lo cual la
+fuerza neta sobre la estatua debe ser nula. En esta situación, sobre la estatua actúan: el peso, la tensión de la cuerda y
+el empuje.
+0 = 𝑇+𝐸 −𝑃 ⇒ 𝑇 = 𝑃−𝐸
+El empuje es igual al peso del líquido desplazado por la estatua y, como la estatua se encuentra totalmente
+sumergida, el volumen de líquido desplazado es igual al volumen total de la estatua.
+𝑚
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+𝐸 = 𝑃 = 𝑉 .𝛿 .𝑔 = .𝛿 .𝑔
+𝑙í𝑞 𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑙í𝑞 𝛿 𝑙í𝑞
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+𝑚
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+𝑇 = 𝑃−𝐸 = 𝑚 .𝑔− .𝛿 .𝑔 = 994 N
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎 𝛿 𝑙í𝑞
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+Como la barra a la que están atados el contrapeso y la estatua se encuentra en equilibrio, tanto la sumatoria de
+fuerzas como la de momentos deben anularse. En este caso hay sólo dos momentos de fuerzas aplicados sobre la
+barra, si consideramos como centro de momentos el punto de apoyo de la barra sobre la pared, los correspondientes
+a las tensiones de los dos cables atados a la barra. Ya calculamos la tensión del cable de la derecha (T) y la del cable
+de la izquierda debe ser igual al peso del contrapeso, ya que el contrapeso permanece en reposo, con lo cual la
+sumatoria de fuerzas sobre él debe ser nula.
+0 = |𝑀 |−|𝑀 | = 1,00 𝑚 .𝑚 .𝑔−3,00 𝑚 .𝑇
+𝑇 𝑇 𝑐𝑜𝑛𝑡𝑟𝑎𝑝𝑒𝑠𝑜
+𝑖𝑧𝑞 𝑑𝑒𝑟
+⇒ 𝒎 = 𝟑𝟎𝟒,𝟐𝟖𝟓𝟕…𝒌𝒈
+𝒄𝒐𝒎𝒕𝒓𝒂𝒑𝒆𝒔𝒐
+https://arrimo.com.ar

@@ -1,0 +1,738 @@
+
+--- Página 1 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 1
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) El esquema muestra a una persona de 75,0 kg de masa que se encuentra inmóvil en el
+extremo de una tabla que se encuentra apoyada y bascula en el punto a del extremo a
+superior de una pared.
+El extremo izquierdo de la tabla se encuentra unido a una cuerda cuya orientación forma
+un ángulo de 20,0 grados respecto de la dirección vertical.
+La tabla es homogénea, tiene una masa de 20,0 kg, 3,00 metros de longitud y el punto a
+se encuentra a 1,00 metros del extremo izquierdo de la misma.
+Tensión
+Calcular la tensión a la que se encuentra sometida la cuerda.
+1,67.103 N
+(2 puntos)
+2) Un mito muy difundido cuenta que Galileo Galilei, estudiaba la caída de los cuerpos
+soltándolos desde la parte superior de la torre de Pisa y analizando el tiempo que tardaban ●a
+en llegar al suelo.
+Si una pesada bala de cañón, soltada desde el punto ● a tarda 3,37 segundos en alcanzar el
+suelo,
+a) Calcule la altura del punto ● a respecto del suelo. (1 punto)
+b) Calcule la rapidez de la bala cuando llega al suelo. (1 punto)
+a) Altura b) Rapidez
+55,6 m 33,0 m/s
+3) Una esfera maciza de aluminio de 3,00 centímetros de diámetro es colocada dentro de un
+recipiente con alcohol, quedando apoyada en el fondo tal como muestra la figura. Sabiendo que
+las densidades del aluminio y del alcohol son 2,70 x 103 y 7,89 x 102 kg/m3 respectivamente,
+responda:
+a) ¿Cuál es la masa - en gramos- de la esfera? (1 punto)
+b) ¿Cuál es el valor de la fuerza de empuje que experimenta la esfera? (1 punto)
+c) ¿Cuál es el valor de la fuerza con la que la esfera se apoya en el fondo del recipiente? (1 punto)
+d) En el recuadro realice el “diagrama de cuerpo libre” para la esfera, indicando de manera proporcionada las
+fuerzas que actúan sobre ella. (1 punto)
+a) Masa
+38,2 g
+b) Fuerza
+0,109 N
+c) Fuerza
+0,265 N
+--- Página 2 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 1
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+4) Dados los siguientes vectores A y B que representan fuerzas:
+35,0º
+a) Calcular el módulo del vector A+B y el ángulo -respecto del eje x- del
+mismo (no olvide consignar las unidades en sus resultados) (1 punto)
+a) módulo Ángulo
+70,3 N 43,9°
+30,0º
+b) Informar el resultado del producto A x B (no olvide consignar las unidades y dirección en su resultado) (1 punto)
+b) AxB
+541 N2 ̂
+𝑘
+1) La tabla se encuentra en equilibrio estático, es decir que las sumatorias de fuerzas y momentos sobre ésta deben
+anularse.
+Si planteamos la sumatoria de momentos tomando como centro de momentos el punto a, tenemos los momentos del
+peso de la tabla y de la fuerza que la persona ejerce sobre la tabla (que es igual en valor al peso de la persona) que
+generarían rotaciones en sentido antihorario y tenemos el momento de la tensión de la cuerda en sentido horario.
+𝑚 𝑚
+75,0 𝑘𝑔.9,80 .2 𝑚+20,0 𝑘𝑔.9,80 .0,5 𝑚−𝑇.cos(20°).1 𝑚 = 0
+𝑠2 𝑠2
+⇒ 𝑻 = 𝟏𝟔𝟔𝟖,𝟔𝟑𝟏…𝑵
+2) Se deja caer la bala de cañón, lo que implica que parte del reposo. Despreciando la fricción con el aire:
+1 1 𝑚
+𝒉 = 𝑔.𝑡2 = .9,80 (3,37 𝑠)2 = 𝟓𝟓,𝟔𝟒𝟖𝟖𝟏…𝒎
+2 2 𝑠2
+La rapidez al llegar al suelo será:
+𝑚 𝒎
+𝒓𝒂𝒑𝒊𝒅𝒆𝒛 = |𝑣| = |𝑔.𝑡| = 9,80 .3,37 𝑠 = 𝟑𝟑,𝟎𝟐𝟔
+𝑠2 𝒔
+3) Conocemos el diámetro de la esfera, con lo que podemos determinar su volumen, y su densidad. Con esta
+información podemos calcular la masa de la esfera:
+4 𝑘𝑔
+𝒎 = 𝑉 .𝛿 = 𝜋.(0,015 𝑚)3.2,7.103 = 𝟑𝟖,𝟏𝟕𝟎𝟑𝟓…𝒈
+𝒆𝒔𝒇𝒆𝒓𝒂 𝑒𝑠𝑓𝑒𝑟𝑎 𝑒𝑠𝑓𝑒𝑟𝑎 3 𝑚3
+El empuje es igual al peso del volumen desalojado y el volumen desalojado, como la esfera está totalmente
+sumergida, es equivalente al volumen de la esfera.
+4 𝑘𝑔 𝑚
+𝑬 = 𝑉 .𝛿 .𝑔 = 𝜋.(0,015 𝑚)3.7,89.102 .9,80 = 𝟎,𝟏𝟎𝟗𝟑𝟏𝟏…𝑵
+𝑒𝑠𝑓𝑒𝑟𝑎 𝑙í𝑞𝑢𝑖𝑑𝑜 3 𝑚3 𝑠2
+La fuerza sobre la esfera debida a la interacción entre la esfera y el fondo del recipiente es la normal. Como la esfera
+se encuentra en equilibrio estático, la sumatoria de fuerzas sobre ella debe ser nula.
+𝐸 +𝑁 −𝑃 = 0 ⇒ 𝑵 = 𝑃−𝐸 = 𝑚 .𝑔−𝐸 = 𝟎,𝟐𝟔𝟒𝟕𝟓𝟖…𝑵
+𝑒𝑠𝑓𝑒𝑟𝑎
+4) Calculamos primero las coordenadas de los vectores 𝐴⃗ y 𝐵⃗⃗.
+𝐴 = 32,0 𝑁.cos(30,0°); 𝐴 = 32,0 𝑁.sen(30,0°)
+𝑥 𝑦
+𝐵 = 40,0 𝑁.sen(35,0°); 𝐵 = 40,0 𝑁.cos(35,0°)
+𝑥 𝑦
+--- Página 3 ---
+El módulo de la suma vectorial de 𝐴⃗ y 𝐵⃗⃗ es:
+|𝑨⃗⃗⃗+𝑩⃗⃗⃗| = √(𝐴 +𝐵 )2 +(𝐴 +𝐵 ) 2 = 𝟕𝟎,𝟑𝟏𝟒𝟔𝟒…𝑵
+𝑥 𝑥 𝑦 𝑦
+Para hallar el ángulo que 𝐴⃗+𝐵⃗⃗ forma con el semieje positivo de las x, teniendo en cuenta que 𝐴⃗+𝐵⃗⃗ es un vector
+que se encuentra en el primer cuadrante, calculamos:
+𝐴 +𝐵
+á𝑛𝑔𝑢𝑙𝑜 = 𝑎𝑟𝑐𝑡𝑔( 𝑦 𝑦) = 43,91107…°
+𝐴 +𝐵
+𝑥 𝑥
+El producto vectorial 𝐴⃗×𝐵⃗⃗, aplicando la regla de la mano derecha, será un vector con dirección y sentido dados por
+el versor 𝑘 ̂ . Su módulo lo podemos calcular:
+|𝐴⃗×𝐵⃗⃗| = |𝐴⃗||𝐵⃗⃗||𝑠𝑒𝑛(𝜃)| = 32,0 𝑁.40,0 𝑁.𝑠𝑒𝑛(25°) = 540,9514…𝑁2
+Donde 𝜃 es el ángulo entre ambos vectores. Resulta entonces,
+𝑨⃗⃗⃗×𝑩⃗⃗⃗ = 𝟓𝟒𝟎,𝟗𝟓𝟏𝟒…𝑵𝟐 𝒌 ̂
+--- Página 4 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 2
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Una explicación detallada de la resolución puede verse en la clave de corrección del tema 1
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) El esquema muestra a una persona de 95,0 kg de masa que se encuentra inmóvil en el
+extremo de una tabla que se encuentra apoyada y bascula en el punto a del extremo a
+superior de una pared.
+El extremo izquierdo de la tabla se encuentra unido a una cuerda cuya orientación forma
+un ángulo de 20,0 grados respecto de la dirección vertical.
+La tabla es homogénea, tiene una masa de 25,0 kg, 3,00 metros de longitud y el punto a
+se encuentra a 1,00 metros del extremo izquierdo de la misma.
+Tensión
+Calcular la tensión a la que se encuentra sometida la cuerda.
+2,11.103 N
+(2 puntos)
+2) Un mito muy difundido cuenta que Galileo Galilei, estudiaba la caída de los cuerpos
+soltándolos desde la parte superior de la torre de Pisa y analizando el tiempo que tardaban ●a
+en llegar al suelo.
+Si una pesada bala de cañón, soltada desde el punto ● a tarda 3,87 segundos en alcanzar el
+suelo,
+a) Calcule la altura del punto ● a respecto del suelo. (1 punto)
+b) Calcule la rapidez de la bala cuando llega al suelo. (1 punto)
+a) Altura b) Rapidez
+73,4 m 37,9 m/s
+3) Una esfera maciza de magnesio de 5,00 centímetros de diámetro es colocada dentro de un
+recipiente con alcohol, quedando apoyada en el fondo tal como muestra la figura. Sabiendo que
+las densidades del magnesio y del alcohol son 1,74 x 103 y 7,89 x 102 kg/m3 respectivamente,
+responda:
+a) ¿Cuál es la masa - en gramos- de la esfera? (1 punto)
+b) ¿Cuál es el valor de la fuerza de empuje que experimenta la esfera? (1 punto)
+c) ¿Cuál es el valor de la fuerza con la que la esfera se apoya en el fondo del recipiente? (1 punto)
+d) En el recuadro realice el “diagrama de cuerpo libre” para la esfera, indicando de manera proporcionada las
+fuerzas que actúan sobre ella. (1 punto)
+a) Masa
+114 g
+b) Fuerza
+0,506 N
+c) Fuerza
+0,610 N
+--- Página 5 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 2
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+4) Dados los siguientes vectores A y B que representan fuerzas:
+35,0º
+a) Calcular el módulo del vector A-B y el ángulo -respecto del eje y- del
+mismo (no olvide consignar las unidades en sus resultados) (1 punto)
+a) módulo Ángulo
+17,4 N 164°
+30,0º
+b) Informar el resultado del producto A x B (no olvide consignar las unidades y dirección en su resultado) (1 punto)
+b) AxB
+541 N2 ̂
+𝑘
+--- Página 6 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 3
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) La formación de granizo en las tormentas se produce a alturas de 3000 metros (como
+mínimo) ya que a esas altitudes las temperaturas están por debajo del punto de
+congelación del agua. Cuando el granizo cae, no es despreciable el rozamiento con el aire
+(¡afortunadamente!) y por ello no llega al suelo con la velocidad que tendría una “caída
+libre” sin rozamiento alguno.
+Rapidez
+Si hipotéticamente no hubiese rozamiento alguno que
+moderase la velocidad, ¿con qué rapidez llegaría al suelo 242 m/s
+un granizo que se ha formado a 3000 metros de altitud?
+(1,0 punto).
+2) La imagen de la derecha representa una
+situación estática en donde una grúa
+sostiene a un automóvil levantándolo por el
+frente con un cable.
+El automóvil tiene una masa de 1350
+kilogramos y su centro de gravedad se
+encuentra ubicado 1,80 metros por delante
+del eje de la rueda trasera. Por otra parte, la
+distancia entre dicho eje y el frente del
+automóvil es 3,50 metros.
+a) Calcular la tensión en el cable. ((1,5 puntos). a) Tensión b) Fuerza
+b) Calcular la fuerza con la que la rueda trasera se 6,80.103 N 6,43.103 N
+encuentra apoyada en el suelo. (1,5 puntos).
+--- Página 7 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 3
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+3) El buceo de apnea es una disciplina deportiva en donde los participantes
+contienen la respiración bajo el agua, tratando de superar límites de resistencia.
+En la modalidad de buceo libre sin límites, el buceador trata de alcanzar la
+mayor profundidad sumergiéndose unido a un peso, para después ascender a la
+superficie ayudándose con un flotador.
+En el año 2007 el austríaco Herbert Nitsch alcanzó una profundidad récord de
+214 metros.
+a) Si la densidad del agua de mar es 1,025 g/cm3, y la presión atmosférica en la
+superficie es de 1,013x105 Pascales, ¿Cuántas veces es mayor la presión a 214
+metros de profundidad que en la superficie? (2,0 puntos)
+b) Si la densidad promedio del buceador con su traje de neoprene tiene un
+valor de 0,960 g/cm3, ¿qué porcentaje del volumen corporal del buceador a)
+permanecerá bajo el agua si éste permanece inmóvil? (1,0 punto) 22,2 veces
+b) %
+93,7%
+4) Dados los vectores A = (4,00 ; 6,00) y B = (2,00 ; -1,00)
+a) Ángulo
+82,9°
+a) ¿Qué valor tiene el ángulo formado entre ambos vectores? (1,0 punto)
+b) Prod. escalar
+b) Calcular el producto escalar (A • B). (1,0 punto)
+2,00
+c) Calcular módulo del vector resultante (A + B) (1,0 punto)
+c) Módulo
+7,81
+1) Si parte del reposo a una altura por sobre la superficie de 3000 m, entonces su rapidez al llegar al suelo será:
+𝒓𝒂𝒑𝒊𝒅𝒆𝒛 = √2.𝑔.ℎ = 𝟐𝟒𝟐,𝟒𝟖𝟕𝟏…𝒎/𝒔
+2) Como el auto está en equilibrio estático, las sumatorias de fuerzas y de momentos deben ser nulas.
+Planteando la suma de momentos de las fuerzas respecto del punto de apoyo del auto sobre el suelo. Respecto de
+dicho punto, los únicos momentos o nulos son el momento correspondiente al peso del auto y al de la tensión del
+cable, que tienen sentidos opuestos.
+𝑚
+1350 𝑘𝑔.9,80 .cos(30°).1,80 𝑚−𝑇.cos(30°).3,50 𝑚 = 0
+𝑠2
+𝑚
+1350 𝑘𝑔.9,8 .cos(30°).1,80 𝑚
+𝑠2
+⇒ 𝑻 = = 𝟔𝟖𝟎𝟒 𝑵
+cos(30°).3,50 𝑚
+--- Página 8 ---
+La fuerza con la que la rueda se apoya sobre la superficie es equivalente a la normal con dicha superficie:
+𝑁+𝑇−𝑃 = 0 ⇒ 𝑵 = 𝑃−𝑇 = 𝟔𝟒𝟐𝟔 𝑵
+3) La presión en la superficie es 𝑝 = 1,013.105𝑃𝑎. La presión a 214 m de profundidad es la suma de la
+𝑎𝑡𝑚
+presión en la superficie más la presión hidrostática debida a la columna de 214 m de agua. Nos piden determinar
+la relación entre esas dos presiones:
+𝑘𝑔 𝑚
+𝑝
+1,013.105𝑃𝑎 +1025 .9,80 .214 𝑚
+214 𝑚
+=
+𝑚3 𝑠2
+= 𝟐𝟐,𝟐𝟐𝟎𝟒𝟑𝟒…
+𝑝 1,013.105𝑃𝑎
+𝑎𝑡𝑚
+Si el buceador se encuentra estático, las fuerzas que actúan sobre él deben estar equilibradas:
+𝐸 −𝑃 = 0 ⇒ 𝐸 = 𝑃 ⇒ 𝑉 .𝑔.𝛿 = 𝑉 .𝑔.𝛿
+𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑎𝑔𝑢𝑎 𝑡𝑜𝑡𝑎𝑙 𝑏𝑢𝑐𝑒𝑎𝑑𝑜𝑟
+𝑉 𝛿
+𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑏𝑢𝑐𝑒𝑎𝑑𝑜𝑟
+⇒ = = 0,9365854… = 𝟗𝟑,𝟔𝟓𝟖𝟓𝟒…%
+𝑉 𝛿
+𝑡𝑜𝑡𝑎𝑙 𝑎𝑔𝑢𝑎
+4) El producto escalar entre los vectores 𝐴⃗ y 𝐵⃗⃗.
+𝑨⃗⃗⃗∙𝑩⃗⃗⃗ = 𝐴 .𝐵 +𝐴 .𝐵 = 𝟐,𝟎𝟎
+𝑥 𝑥 𝑦 𝑦
+Los módulos de los vectores 𝐴⃗ y 𝐵⃗⃗ son respectivamente:
+|𝐴⃗| = √𝐴2 +𝐴2 = 7,21110…
+𝑥 𝑦
+|𝐵⃗⃗| = √𝐵2 +𝐵2 = 2,236068…
+𝑥 𝑦
+Al ángulo entre 𝐴⃗ y 𝐵⃗⃗ lo podemos obtener de la siguiente manera:
+𝐴⃗∙𝐵⃗⃗
+á𝒏𝒈𝒖𝒍𝒐 = arccos( ) = 𝟖𝟐,𝟖𝟕𝟒𝟗𝟖…°
+|𝐴⃗|.|𝐵⃗⃗|
+El módulo de la suma vectorial de 𝐴⃗ y 𝐵⃗⃗ es:
+|𝑨⃗⃗⃗+𝑩⃗⃗⃗| = √(𝐴 +𝐵 )2+(𝐴 +𝐵 ) 2 = 𝟕,𝟖𝟏𝟎𝟐𝟓…
+𝑥 𝑥 𝑦 𝑦
+--- Página 9 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 4
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Una explicación detallada de la resolución puede verse en la clave de corrección del tema 3
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) La formación de granizo en las tormentas se produce a alturas de 2000 metros (como
+mínimo) ya que a esas altitudes las temperaturas están por debajo del punto de
+congelación del agua. Cuando el granizo cae, no es despreciable el rozamiento con el aire
+(¡afortunadamente!) y por ello no llega al suelo con la velocidad que tendría una “caída
+libre” sin rozamiento alguno.
+Rapidez
+Si hipotéticamente no hubiese rozamiento alguno que
+moderase la velocidad, ¿con qué rapidez llegaría al suelo 198 m/s
+un granizo que se ha formado a 2000 metros de altitud?
+(1,0 punto).
+2) La imagen de la derecha representa una
+situación estática en donde una grúa
+sostiene a un automóvil levantándolo por el
+frente con un cable.
+El automóvil tiene una masa de 1550
+kilogramos y su centro de gravedad se
+encuentra ubicado 1,80 metros por delante
+del eje de la rueda trasera. Por otra parte, la
+distancia entre dicho eje y el frente del
+automóvil es 3,50 metros.
+a) Calcular la tensión en el cable. ((1,5 puntos). a) Tensión b) Fuerza
+b) Calcular la fuerza con la que la rueda trasera se 7,81.103 N 7,38.103 N
+encuentra apoyada en el suelo. (1,5 puntos).
+--- Página 10 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 4
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+3) El buceo de apnea es una disciplina deportiva en donde los participantes
+contienen la respiración bajo el agua, tratando de superar límites de resistencia.
+En la modalidad de buceo libre sin límites, el buceador trata de alcanzar la
+mayor profundidad sumergiéndose unido a un peso, para después ascender a la
+superficie ayudándose con un flotador.
+En el año 2007 el austríaco Herbert Nitsch alcanzó una profundidad récord de
+214 metros.
+a) Si la densidad del agua de mar es 1,035 g/cm3, y la presión atmosférica en la
+superficie es de 1,013x105 Pascales, ¿Cuántas veces es mayor la presión a 214
+metros de profundidad que en la superficie? (2,0 puntos)
+b) Si la densidad promedio del buceador con su traje de neoprene tiene un
+valor de 0,920 g/cm3, ¿qué porcentaje del volumen corporal del buceador a)
+permanecerá bajo el agua si éste permanece inmóvil? (1,0 punto) 22,4 veces
+b) %
+88,9 %
+4) Dados los vectores A = (4,00 ; 5,00) y B = (3,00 ; -1,00)
+a) Ángulo
+69,8°
+a) ¿Qué valor tiene el ángulo formado entre ambos vectores? (1,0 punto)
+b) Prod. escalar
+b) Calcular el producto escalar (A • B). (1,0 punto)
+7,00
+c) Calcular módulo del vector resultante (A + B) (1,0 punto)
+c) Módulo
+8,06
+--- Página 11 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 5
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) Un paracaidista salta desde el borde de un acantilado de 300 metros de altura y
+durante 6,00 segundos desciende en caída libre.
+Transcurridos los seis segundos, abre el paracaídas y desciende hasta el suelo con una
+rapidez constante de 7,50 km/h.
+a) altura
+124 m
+a) ¿A qué altura, respecto del suelo, el paracaidista
+abre su paracaídas? (1,5 puntos)
+b) ¿Cuánto tiempo transcurre entre el salto y la llegada b) tiempo
+al suelo del paracaidista? (1,5 puntos)
+65,3 s
+2) En un vaso que contiene aceite (densidad del aceite = 0,950 g/cm3) se coloca un cubo
+macizo de plástico de 4,00 cm de arista, el cual flota en el aceite emergiendo del mismo una
+cuarta parte de su volumen, según se representa en el esquema.
+a) ¿Cuál es el valor de la presión hidrostática en un punto •q ubicado en la base del cubo?
+●
+(1 punto)
+q
+b) Calcule la masa del cubo de plástico. (1 punto)
+a) Presión b) Masa
+279 Pa 45,6 g
+c) Realice en el recuadro de la derecha un diagrama del
+cuerpo libre para el cubo flotando. (1 punto)
+-Se tendrá en cuenta la proporción en que las fuerzas
+intervinientes son representadas-.
+--- Página 12 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 5
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+3) ¡Qué enredo! Padre e hijo han enredado sus líneas de pesca y
+aun no saben a quién pertenece el anzuelo que mordió el pez.
+En la situación estática del dibujo, las respectivas líneas de pesca
+de padre e hijo forman ángulos de 30,0 y 45,0 grados respecto de la
+vertical.
+La línea de pesca del padre Masa
+está sometida a una tensión
+1,74 kg
+de 12,5 Newton.
+Calcule la masa del pez
+capturado (2,0 puntos)
+4) Dados los vectores A = (4,00 ; 9,00 ) y B = (3,00 ; – 1,00)
+a) Calcule el módulo del vector (A + B). (1,0 punto)
+b) Represente al vector (A + B) en el sistema de ejes.
+(1,0 punto)
+a) Módulo
+10,6
+1) El paracaidista salta desde una altura de 300 m y desciende durante 6,00 s en caída libre, lo que implica un
+descenso de:
+𝑔
+𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑖𝑎 = 𝑡2 = 176,4 𝑚
+𝑐𝑎í𝑑𝑎 𝑙𝑖𝑏𝑟𝑒 2
+Es decir que abre el paracaídas a una altura respecto del suelo de 300 𝑚−176,4 𝑚 = 𝟏𝟐𝟑,𝟔 𝒎
+Para saber el tiempo total del descenso, nos falta averiguar el tiempo que demora en recorrer esos 123,6 m viajando
+con velocidad constante de 7,50 𝑘𝑚/ℎ = 2,08333…𝑚/𝑠.
+123,6 𝑚
+𝑻𝒊𝒆𝒎𝒑𝒐 = 6,00 𝑠+ = 𝟔𝟓,𝟑𝟐𝟖 𝒔
+𝒕𝒐𝒕𝒂𝒍 𝑚
+2,08333…
+𝑠
+2) El punto q se encuentra a una profundidad igual a tres cuartas partes de la longitud de la arista del cubo, es decir
+3,00 cm. Su presión hidrostática será:
+𝑘𝑔 𝑚
+𝒑 = 950 .0,80 .0,0300 𝑚 = 𝟐𝟕𝟗,𝟑 𝑷𝒂
+𝒒 𝑚3 𝑠2
+El buceador se encuentra estático, las fuerzas que actúan sobre él deben estar equilibradas:
+𝐸 −𝑃 = 0 ⇒ 𝐸 = 𝑃 ⇒ 𝑉 .𝑔.𝛿 = 𝑚 .𝑔
+𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑎𝑐𝑒𝑖𝑡𝑒 𝑐𝑢𝑏𝑜
+⇒ 𝒎 = 𝑉 .𝛿 = 𝟎,𝟎𝟒𝟓𝟔 𝒌𝒈
+𝒄𝒖𝒃𝒐 𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑎𝑐𝑒𝑖𝑡𝑒
+3) Como el sistema se encuentra en equilibrio estático, la sumatoria de fuerzas debe ser nula. Consideremos la
+descomposición en las direcciones horizontal y vertical.
+En la dirección horizontal tenemos:
+--- Página 13 ---
+sen(30°)
+𝑇 .sen(45°)−𝑇 .sen(30°) = 0 ⇒ 𝑇 = 𝑇 = 8,838834… 𝑁
+ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒 ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒 sen(45°)
+En la dirección vertical:
+𝑇 .cos(45°)+𝑇 .cos(30°)−𝑚 .𝑔 = 0
+ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒 𝑝𝑒𝑧
+𝑇 .cos(45°)+𝑇 .cos(30°)
+ℎ𝑖𝑗𝑜 𝑝𝑎𝑑𝑟𝑒
+⇒ 𝒎 = = 𝟏,𝟕𝟒𝟐𝟑𝟕𝟗𝟑…𝒌𝒈
+𝒑𝒆𝒛 𝑔
+4) El módulo de la suma vectorial de 𝐴⃗ y 𝐵⃗⃗ es:
+|𝑨⃗⃗⃗+𝑩⃗⃗⃗| = √(𝐴 +𝐵 )2+(𝐴 +𝐵 ) 2 = 𝟏𝟎,𝟔𝟑𝟎𝟏𝟒𝟓𝟖𝟏…
+𝑥 𝑥 𝑦 𝑦
+--- Página 14 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 6
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Una explicación detallada de la resolución puede verse en la clave de corrección del tema 5
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) Un paracaidista salta desde el borde de un acantilado de 450 metros de altura y
+durante 7,00 segundos desciende en caída libre.
+Transcurridos los siete segundos, abre el paracaídas y desciende hasta el suelo con
+una rapidez constante de 7,50 km/h.
+a) altura
+210 m
+a) ¿A qué altura, respecto del suelo, el paracaidista
+abre su paracaídas? (1,5 puntos)
+b) ¿Cuánto tiempo transcurre entre el salto y la llegada b) tiempo
+al suelo del paracaidista? (1,5 puntos)
+108 s
+2) En un vaso que contiene aceite (densidad del aceite = 0,750 g/cm3) se coloca un cubo
+macizo de plástico de 8,00 cm de arista, el cual flota en el aceite emergiendo del mismo una
+cuarta parte de su volumen, según se representa en el esquema.
+a) ¿Cuál es el valor de la presión hidrostática en un punto •q ubicado en la base del cubo?
+●
+(1 punto)
+q
+b) Calcule la masa del cubo de plástico. (1 punto)
+a) Presión b) Masa
+441 Pa 288 g
+c) Realice en el recuadro de la derecha un diagrama del
+cuerpo libre para el cubo flotando. (1 punto)
+-Se tendrá en cuenta la proporción en que las fuerzas
+intervinientes son representadas-.
+--- Página 15 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 6
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+3) ¡Qué enredo! Padre e hijo han enredado sus líneas de pesca y
+aun no saben a quién pertenece el anzuelo que mordió el pez.
+En la situación estática del dibujo, las respectivas líneas de pesca
+de padre e hijo forman ángulos de 30,0 y 45,0 grados respecto de la
+vertical.
+La línea de pesca del padre Masa
+está sometida a una tensión
+2,58 kg
+de 18,5 Newton.
+Calcule la masa del pez
+capturado (2,0 puntos)
+4) Dados los vectores A = (-4,00 ; 6,00 ) y B = (8,00 ; 4,00 )
+a) Calcule el módulo del vector (A + B). (1,0 punto)
+b) Represente al vector (A + B) en el sistema de ejes.
+(1,0 punto)
+a) Módulo
+10,8
+--- Página 16 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 7
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) En una clásica fábula, una tortuga y una liebre disputan una carrera. Confiada en su velocidad y en la lentitud
+de su oponente, la liebre se duerme una siesta durante la competencia, pero al despertarse nota que la tortuga está
+a punto de llegar a la meta.
+Una tortuga terrestre puede “correr” con una rapidez de 0,250 m/s,
+mientras que una liebre lo hace mucho más rápido.
+Si cuando la liebre se despierta nota
+Rapidez (km/h)
+que, doscientos metros más adelante,
+la tortuga se encuentra a 4,50 metros 40,9 km/h
+de cruzar la meta, ¿con qué rapidez
+promedio (en km/h) deberá correr
+para alcanzar a la tortuga en la meta?
+(2,0 puntos)
+2) Una persona tira de una cuerda inextensible y mantiene inmóviles a dos
+carros A y B cuyas masas son 25,0 y 12,5 kilogramos respectivamente.
+El carro A puede deslizar sin rozamiento sobre el plano inclinado, que
+forma un ángulo de 45,0º respecto de la horizontal. Las poleas no
+presentan rozamiento alguno.
+a) Calcular la tensión a la cual se ve sometida la cuerda que vincula a
+ambos carros entre sí. (1,0 punto)
+b) Calcular la fuerza con la cual la persona tira de la cuerda. (1,0 punto)
+c) En el recuadro realice el “diagrama de cuerpo libre” para el cuerpo A,
+indicando de manera proporcionada las fuerzas que actúan sobre l.
+(1 punto)
+c)
+a) tensión
+123 N
+b) fuerza
+296 N
+3) Dados los vectores A ( 7,00 ; 3,00 ) y B ( 0,00 ; -5,00 ), cuyos orígenes se encuentran en el centro de
+coordenadas,
+a) Calcular el módulo del vector resultante de la operación (A + B). (1 punto)
+b) Calcular el ángulo (en grados) formado entre el vector resultante y el eje positivo de las X. (1 punto)
+c) Informar el resultado de la operación (A x B) indicando dirección y sentido. (1,0 punto)
+a) módulo b) ángulo c) (AxB)
+7,28 15,9° -35,0 ̂
+𝑘
+--- Página 17 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 7
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+4) Para adornar un estanque de un acuario una estatua
+3,00 m
+1,00 m
+de granito es sostenida bajo el agua como muestra la
+figura, mientras se acondiciona el suelo debajo de
+ella, en donde luego será apoyada.
+La estatua tiene una masa de 160 kilogramos y se
+encuentra sumergida en agua de mar cuya densidad es
+1,025 g/cm3, mientras que la densidad del granito es
+2,80 g/cm3.
+Calcule la masa del contrapeso que mantiene en
+equilibrio al sistema. (Considere despreciables a las
+masas de las cuerdas y de la palanca) (2 puntos)
+Masa
+304 kg
+1) La tortuga se halla a 4,50 m de cruzar la meta y, en el mismo instante, la liebre se halla a 204,5 m. La liebre
+deberá recorrer 204,5 m en el mismo lapso en el cual la tortuga recorre los 4,50 m que la separan de la línea de
+llegada. El tiempo del que dispone la liebre es entonces:
+4,50 𝑚
+𝑡𝑖𝑒𝑚𝑝𝑜 = = 18,0 𝑠
+𝑚
+0,250
+𝑠
+La rapidez promedio de la liebre será entonces:
+204,5 𝑚 𝑚 𝒌𝒎
+𝒓𝒂𝒑𝒊𝒅𝒆𝒛 = = 11,36111… = 𝟒𝟎,𝟗
+18,0 𝑠 𝑠 𝒉
+2) Como todos los objetos se encuentran en equilibrio estático, la sumatoria de fuerzas sobre cada uno de ellos debe
+ser cero. Si consideramos al objeto B:
+𝑇 −𝑃 = 0 ⇒ 𝑇 = 𝑃 = 𝟏𝟐𝟐,𝟓 𝑵
+2 𝐵 2 𝐵
+donde 𝑇 es la tensión de la cuerda que une los carros A y B.
+2
+La fuerza que ejerce la persona es equivalente a la tensión (𝑇 ) de la cuerda que une a la persona con el carro A. Si planteamos
+1
+ahora la sumatoria de fuerzas sobre el carro A en la dirección paralela a la superficie inclinada sobre la que se encuentra:
+𝑇 −𝑇 −𝑚 .𝑔.sen(45°)= 0 ⇒ 𝑇 = 𝑇 +𝑚 .𝑔.sen(45°)= 𝟐𝟗𝟓,𝟕𝟒𝟏𝟏𝟔… 𝑵
+1 2 𝑎 1 2 𝑎
+3) El módulo de la suma vectorial de 𝐴⃗ y 𝐵⃗⃗ es:
+|𝑨⃗⃗⃗+𝑩⃗⃗⃗| = √(𝐴 +𝐵 )2 +(𝐴 +𝐵 ) 2 = 𝟕,𝟐𝟖𝟎𝟏𝟎𝟗…
+𝑥 𝑥 𝑦 𝑦
+El ángulo entre 𝐴⃗+𝐵⃗⃗ y el semieje positivo de las x lo podemos hallar a partir de relaciones trigonométricas entre dicho vector
+resultante y sus componentes:
+𝐴 +𝐵
+á𝒏𝒈𝒖𝒍𝒐= arccos( 𝑥 𝑥) =𝟏𝟓,𝟗𝟒𝟓𝟑𝟗𝟔…°
+|⃗𝐴⃗⃗+𝐵⃗⃗⃗|
+El producto vectorial 𝐴⃗×𝐵⃗⃗ da como resultado un vector con dirección perpendicular al plano xy, es decir en la dirección
+dada por el versor 𝑘 ̂ .
+𝑨⃗⃗⃗×𝑩⃗⃗⃗ = (𝐴 .𝐵 −𝐴 .𝐵 ) 𝑘 ̂ = −𝟑𝟓,𝟎 𝒌 ̂
+𝑥 𝑦 𝑦 𝑥
+--- Página 18 ---
+4) La estatua se encuentra en reposo y permanece en reposo, es decir que está en equilibrio estático, con lo cual la
+fuerza neta sobre la estatua debe ser nula. En esta situación, sobre la estatua actúan: el peso, la tensión de la cuerda y
+el empuje.
+0 = 𝑇+𝐸 −𝑃 ⇒ 𝑇 = 𝑃−𝐸
+El empuje es igual al peso del líquido desplazado por la estatua y, como la estatua se encuentra totalmente
+sumergida, el volumen de líquido desplazado es igual al volumen total de la estatua.
+𝑚
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+𝐸 = 𝑃 = 𝑉 .𝛿 .𝑔 = .𝛿 .𝑔
+𝑙í𝑞 𝑠𝑢𝑚𝑒𝑟𝑔𝑖𝑑𝑜 𝑙í𝑞 𝛿 𝑙í𝑞
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+𝑚
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+𝑇 = 𝑃−𝐸 = 𝑚 .𝑔− .𝛿 .𝑔 = 994 N
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎 𝛿 𝑙í𝑞
+𝑒𝑠𝑡𝑎𝑡𝑢𝑎
+Como la barra a la que están atados el contrapeso y la estatua se encuentra en equilibrio, tanto la sumatoria de
+fuerzas como la de momentos deben anularse. En este caso hay sólo dos momentos de fuerzas aplicados sobre la
+barra, si consideramos como centro de momentos el punto de apoyo de la barra sobre la pared, los correspondientes
+a las tensiones de los dos cables atados a la barra. Ya calculamos la tensión del cable de la derecha (T) y la del cable
+de la izquierda debe ser igual al peso del contrapeso, ya que el contrapeso permanece en reposo, con lo cual la
+sumatoria de fuerzas sobre él debe ser nula.
+0 = |𝑀 |−|𝑀 | = 1,00 𝑚 .𝑚 .𝑔−3,00 𝑚 .𝑇
+𝑇 𝑇 𝑐𝑜𝑛𝑡𝑟𝑎𝑝𝑒𝑠𝑜
+𝑖𝑧𝑞 𝑑𝑒𝑟
+⇒ 𝒎 = 𝟑𝟎𝟒,𝟐𝟖𝟓𝟕…𝒌𝒈
+𝒄𝒐𝒎𝒕𝒓𝒂𝒑𝒆𝒔𝒐
+--- Página 19 ---
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 8
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Una explicación detallada de la resolución puede verse en la clave de corrección del tema 7
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) En una clásica fábula, una tortuga y una liebre disputan una carrera. Confiada en su velocidad y en la lentitud
+de su oponente, la liebre se duerme una siesta durante la competencia, pero al despertarse nota que la tortuga está
+a punto de llegar a la meta.
+Una tortuga terrestre puede “correr” con una rapidez de 0,180 m/s,
+mientras que una liebre lo hace mucho más rápido.
+Si cuando la liebre se despierta nota
+que, doscientos metros más adelante, Rapidez (km/h)
+la tortuga se encuentra a 3,50 metros 37,7 km/h
+de cruzar la meta, ¿con qué rapidez
+promedio (en km/h) deberá correr
+para alcanzar a la tortuga en la meta?
+(2,0 puntos)
+2) Una persona tira de una cuerda inextensible y mantiene inmóviles a dos
+carros A y B cuyas masas son 40,0 y 18,5 kilogramos respectivamente.
+El carro A puede deslizar sin rozamiento sobre el plano inclinado, que
+forma un ángulo de 45,0º respecto de la horizontal. Las poleas no
+presentan rozamiento alguno.
+a) Calcular la tensión a la cual se ve sometida la cuerda que vincula a
+ambos carros entre sí. (1,0 punto)
+b) Calcular la fuerza con la cual la persona tira de la cuerda. (1,0 punto)
+c) En el recuadro realice el “diagrama de cuerpo libre” para el cuerpo A,
+indicando de manera proporcionada las fuerzas que actúan sobre él.
+(1 punto)
+c)
+a) tensión
+181 N
+b) fuerza
+458 N
+3) Dados los vectores A ( 8,00 ; 3,00) y B ( 0,00 ; -5,00), cuyos orígenes se encuentran en el centro de coordenadas,
+a) Calcular el módulo del vector resultante de la operación (A + B). (1 punto)
+b) Calcular el ángulo (en grados) formado entre el vector resultante y el eje positivo de las X. (1 punto)
+c) Informar el resultado de la operación (A x B) indicando dirección y sentido. (1 punto)
+a) módulo b) ángulo c) (AxB)
+8,25 14,0° -40,0 ̂
+𝑘
+--- Página 20 ---
+FÍSICA (03) PRIMER PARCIAL
+TEMA 8
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+4) Para adornar un estanque de un acuario una estatua
+3,00 m
+1,00 m
+de granito es sostenida bajo el agua como muestra la
+figura, mientras se acondiciona el suelo debajo de
+ella, en donde luego será apoyada.
+La estatua tiene una masa de 185 kilogramos y se
+encuentra sumergida en agua de mar cuya densidad es
+1,025 g/cm3, mientras que la densidad del granito es
+2,80 g/cm3.
+Calcule la masa del contrapeso que mantiene en
+equilibrio al sistema. (Considere despreciables a las
+masas de las cuerdas y de la palanca) (2 puntos)
+Masa
+352 kg

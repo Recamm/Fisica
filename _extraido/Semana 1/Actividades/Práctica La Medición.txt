@@ -1,0 +1,79 @@
+
+--- Página 1 ---
+Física (03) Cátedra Torti
+Práctica La Medición
+1) ¿Cuántas cifras significativas tienen los siguientes números?
+a) 214
+b) 81,60
+c) 7,03
+d) 0,03
+e) 0.0086
+f) 3236
+g) 870
+2) Escriba los siguientes números en potencias de 10 (notación científica)
+a) 1,156
+b) 21,8
+c) 0,0068
+d) 328,65
+e) 0,219
+f) 4,44
+3) Escriba completos los siguientes números con el número correcto de ceros
+a) 8,69 x 104
+b) 9,1 x 103
+c) 8,8 x 10-1
+d) 4,76 x 102
+e) 3,62 x 10-5
+4) Sume 9,2 x 103 + 8,3 x 104 + 0,008 x 106
+5) Multiplique tomando en cuenta las cifras significativas al dar el resultado
+2,079 x 102 por 0,082 x 10-1
+6) Sume tomando en cuenta las cifras significativas al dar el resultado
+1,80 metros + 142,5 centímetros + 5,34 x 105 micrómetros
+7) Un átomo típico mide 1,0 x 10-10 metros.
+a) ¿Cuánto es eso en pulgadas?
+b) ¿Cuántos átomos hay en una línea de 1 centímetro de longitud?
+Algunos Datos:
+1 milla = 1609 metros
+1 pié = 30,48 centímetros
+1 pulgada = 2,54 centímetros
+1
+--- Página 2 ---
+Física (03) Cátedra Torti
+8) ¿Cuál es el diámetro en centímetros de un caño de una pulgada y media de radio?
+9) Si un automóvil viaja con una rapidez de 28,0 metros por segundo, ¿está superando el límite
+de velocidad de 55 millas por hora?
+10) Para calcular el volumen de un cilindro de radio r y altura h un compañero le sugiere
+aplicar la siguiente ecuación: Vol = π .r3.h Explique porqué no es correcto.
+RESPUESTAS:
+1)
+a) 3
+b) 4
+c) 3
+d) 1
+e) 2
+f) 4
+g) 3
+2)
+a) 1,156 x 100 = 1,156
+b) 2,18 x 101
+c) 6,8 x 10-3
+d) 3,2865 x 102
+e) 2,19 x 10-1
+f) 4,44 x 100 = 4,44
+3)
+a) 86900
+b) 9100
+c) 0,88
+d) 476
+e) 0,0000362
+4) 100200
+5) 1,7
+6) 376 cm o 3,76 m ó 3,76 x 106 micrómetros.
+7) a) 3,9 x 10-9 pulgadas b) 108 átomos
+2
+--- Página 3 ---
+Física (03) Cátedra Torti
+8) 7,62 cm
+9) Sí, lo supera ya que circula a 62,6 millas por hora.
+10) Analizando la ecuación propuesta se nota que la dimensión del resultado será (L)4 y el
+volumen tiene dimensión de (L)3.
+3

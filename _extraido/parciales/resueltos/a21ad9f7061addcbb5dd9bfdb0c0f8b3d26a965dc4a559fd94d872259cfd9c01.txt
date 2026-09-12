@@ -1,0 +1,72 @@
+
+--- Página 1 ---
+https://arrimo.com.ar
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 4
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Una explicación detallada de la resolución puede verse en la clave de corrección del tema 3
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) La formación de granizo en las tormentas se produce a alturas de 2000 metros (como
+mínimo) ya que a esas altitudes las temperaturas están por debajo del punto de
+congelación del agua. Cuando el granizo cae, no es despreciable el rozamiento con el aire
+(¡afortunadamente!) y por ello no llega al suelo con la velocidad que tendría una “caída
+libre” sin rozamiento alguno.
+Rapidez
+Si hipotéticamente no hubiese rozamiento alguno que
+moderase la velocidad, ¿con qué rapidez llegaría al suelo 198 m/s
+un granizo que se ha formado a 2000 metros de altitud?
+(1,0 punto).
+2) La imagen de la derecha representa una
+situación estática en donde una grúa
+sostiene a un automóvil levantándolo por el
+frente con un cable.
+El automóvil tiene una masa de 1550
+kilogramos y su centro de gravedad se
+encuentra ubicado 1,80 metros por delante
+del eje de la rueda trasera. Por otra parte, la
+distancia entre dicho eje y el frente del
+automóvil es 3,50 metros.
+a) Calcular la tensión en el cable. ((1,5 puntos). a) Tensión b) Fuerza
+b) Calcular la fuerza con la que la rueda trasera se 7,81.103 N 7,38.103 N
+encuentra apoyada en el suelo. (1,5 puntos).
+https://arrimo.com.ar
+--- Página 2 ---
+https://arrimo.com.ar
+FÍSICA (03) PRIMER PARCIAL
+TEMA 4
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+3) El buceo de apnea es una disciplina deportiva en donde los participantes
+contienen la respiración bajo el agua, tratando de superar límites de resistencia.
+En la modalidad de buceo libre sin límites, el buceador trata de alcanzar la
+mayor profundidad sumergiéndose unido a un peso, para después ascender a la
+superficie ayudándose con un flotador.
+En el año 2007 el austríaco Herbert Nitsch alcanzó una profundidad récord de
+214 metros.
+a) Si la densidad del agua de mar es 1,035 g/cm3, y la presión atmosférica en la
+superficie es de 1,013x105 Pascales, ¿Cuántas veces es mayor la presión a 214
+metros de profundidad que en la superficie? (2,0 puntos)
+b) Si la densidad promedio del buceador con su traje de neoprene tiene un
+valor de 0,920 g/cm3, ¿qué porcentaje del volumen corporal del buceador a)
+permanecerá bajo el agua si éste permanece inmóvil? (1,0 punto) 22,4 veces
+b) %
+88,9 %
+4) Dados los vectores A = (4,00 ; 5,00) y B = (3,00 ; -1,00)
+a) Ángulo
+69,8°
+a) ¿Qué valor tiene el ángulo formado entre ambos vectores? (1,0 punto)
+b) Prod. escalar
+b) Calcular el producto escalar (A • B). (1,0 punto)
+7,00
+c) Calcular módulo del vector resultante (A + B) (1,0 punto)
+c) Módulo
+8,06

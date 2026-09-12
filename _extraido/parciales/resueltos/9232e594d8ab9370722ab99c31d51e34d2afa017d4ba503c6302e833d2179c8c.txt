@@ -1,0 +1,71 @@
+
+--- Página 1 ---
+https://arrimo.com.ar
+FÍSICA (03) (Cátedra: Torti, Horacio Emilio)
+PRIMER PARCIAL
+TEMA 2
+07/05/2026 CLAVE DE CORRECCIÓN
+Página 1 de 2
+Una explicación detallada de la resolución puede verse en la clave de corrección del tema 1
+Duración del examen: Una hora y media. Completar con letra clara, mayúscula e imprenta.
+APELLIDO: CALIFICACIÓN:
+NOMBRE:
+DOCUMENTO:
+E-MAIL:
+AULA:
+Los resultados se deben expresar con tres cifras significativas y unidades.
+Asumir g = 9,80 m/s2
+1) El esquema muestra a una persona de 95,0 kg de masa que se encuentra inmóvil en el
+extremo de una tabla que se encuentra apoyada y bascula en el punto a del extremo a
+superior de una pared.
+El extremo izquierdo de la tabla se encuentra unido a una cuerda cuya orientación forma
+un ángulo de 20,0 grados respecto de la dirección vertical.
+La tabla es homogénea, tiene una masa de 25,0 kg, 3,00 metros de longitud y el punto a
+se encuentra a 1,00 metros del extremo izquierdo de la misma.
+Tensión
+Calcular la tensión a la que se encuentra sometida la cuerda.
+2,11.103 N
+(2 puntos)
+2) Un mito muy difundido cuenta que Galileo Galilei, estudiaba la caída de los cuerpos
+soltándolos desde la parte superior de la torre de Pisa y analizando el tiempo que tardaban ●a
+en llegar al suelo.
+Si una pesada bala de cañón, soltada desde el punto ● a tarda 3,87 segundos en alcanzar el
+suelo,
+a) Calcule la altura del punto ● a respecto del suelo. (1 punto)
+b) Calcule la rapidez de la bala cuando llega al suelo. (1 punto)
+a) Altura b) Rapidez
+73,4 m 37,9 m/s
+3) Una esfera maciza de magnesio de 5,00 centímetros de diámetro es colocada dentro de un
+recipiente con alcohol, quedando apoyada en el fondo tal como muestra la figura. Sabiendo que
+las densidades del magnesio y del alcohol son 1,74 x 103 y 7,89 x 102 kg/m3 respectivamente,
+responda:
+a) ¿Cuál es la masa - en gramos- de la esfera? (1 punto)
+b) ¿Cuál es el valor de la fuerza de empuje que experimenta la esfera? (1 punto)
+c) ¿Cuál es el valor de la fuerza con la que la esfera se apoya en el fondo del recipiente? (1 punto)
+d) En el recuadro realice el “diagrama de cuerpo libre” para la esfera, indicando de manera proporcionada las
+fuerzas que actúan sobre ella. (1 punto)
+a) Masa
+114 g
+b) Fuerza
+0,506 N
+c) Fuerza
+0,610 N
+https://arrimo.com.ar
+--- Página 2 ---
+https://arrimo.com.ar
+FÍSICA (03) PRIMER PARCIAL
+TEMA 2
+APELLIDO Y NOMBRE: DNI:
+Página 2 de 2
+4) Dados los siguientes vectores A y B que representan fuerzas:
+35,0º
+a) Calcular el módulo del vector A-B y el ángulo -respecto del eje y- del
+mismo (no olvide consignar las unidades en sus resultados) (1 punto)
+a) módulo Ángulo
+17,4 N 164°
+30,0º
+b) Informar el resultado del producto A x B (no olvide consignar las unidades y dirección en su resultado) (1 punto)
+b) AxB
+541 N2 ̂
+𝑘
+https://arrimo.com.ar
